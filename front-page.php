@@ -29,7 +29,7 @@ get_header();
             <div class="col-1 col-md-3"></div>
             <div class="col-2 col-md-3"></div>
             <div class="col-8 col-md-6">
-                <h3>PROBANDO: Tu mejor aliado en proyectos creativos</h2>
+                <h3>Tu mejor aliado en proyectos creativos</h2>
             </div>
             <div class="col-2 col-md-3"></div>
         </div> <!-- .row -->
